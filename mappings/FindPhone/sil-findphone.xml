@@ -264,4 +264,10 @@
 
 </assignments>
 
+<contexts>
+    <group id="high">
+    </group>
+</contexts>
+
+
 </characterMapping>
