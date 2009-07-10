@@ -1,0 +1,251 @@
+c			 "IPA93-96.kmn"
+c		         (Rev. 5/31/99)
+c This file maps most current Keyman key sequences in IPA93.kmn to all
+c  IPA96-type characters in the ASAP SIL fonts for use in Speech Tools.
+c  The Keyman layout chart is in file "IPA93-96.doc."
+
+c SIL ASAP DOLOUS font should be loaded for use with this file.  It supports
+c  all IPA96 characters on the chart except the Angstrom diacritic
+c  mentioned in a comment line.
+
+c "International" type keyboards are not provided for.
+
+c Only characters on the printed "International Phonetic Alphabet (revised
+c  to 1993, corrected 1996)" are programmed.  Below is a list of IPA93
+c  characters no longer supported, comments, and new characters which were
+c  added.
+c                        				Tom Hodges
+
+c =======================================================================
+
+NAME "IPA-ASAP.kmn"
+VERSION 3.1
+BITMAPS IP936ON IP936OFF
+HOTKEY   "^+S"
+
+c ======================
+begin > use(Main)
+
+group(Main) using keys
+
+c CONSONANTS
+c   Plosives
+'t' + '<'   > d255  c Retroflex t
+'d' + '<'   > d234  c Retroflex d
+'j' + '='   > d239  c Palatal
+'G' + '='   > d071  c Uvular
+'?' + '='   > d063  c Glottal
+
+c   Nasals
+'m' + '>'   > d077  c Labiodental m
+'n' + '<'   > d247  c Retroflex n
+'n' + '='   > d248  c Palaltal n
+'n' + '>'   > d078  c Velar n
+'N' + '='   > d178  c Uvular N
+
+c   Trill
+'B' + '='   > d245  c Bilabial B
+'R' + '='   > d123  c Uvular R
+
+c   Flap
+'r' + '>'   > d082  c Alveolar r
+'r' + '<'   > d125  c Retro r
+
+c  Fricative
+'f' + '='   > d184  c Bilabial phi
+'b' + '='   > d066  c  "     beta
+'t' + '='   > d084  c Dental t
+'d' + '='   > d068  c  "     t
+'s' + '='   > d083  c PostAlveolar s
+'z' + '='   > d090  c   "      z
+'s' + '<'   > d167  c Retroflex s
+'z' + '<'   > d189  c Retrofles z
+'c' + '='   > d067  c Palatal c
+'j' + '<'   > d198  c  " 	  j
+'g' + '='   > d196  c Velar gamma
+'x' + '='   > d088  c Uvular chi
+'R' + '>'   > d210  c "	 turned cap.R
+'h' + '>'   > d240  c Pharyngeal h
+'?' + '<'   > d192  c "  reversed question mark.
+'h' + '<'   > d250  c Glottal h
+
+c   Lateral Fricative
+'l' + '='   > d194  c Alveolar belted l
+'l' + '>'   > d076  c l-Yogh ligature
+
+c   Approximate
+'v' + '='   > d086  c Labiodental v
+'r' + '='   > d168  c Alveolar r
+'R' + '<'   > d211  c Retro. r
+'w' + '>'   > d229  c Velar turned m
+
+c   Lateral Approximate
+'l' + '<'   > d241  c Retroflex l
+'L' + '<'   > d180  c Palatal l
+'L' + '='   > d059  c Velar l
+
+c =======================================================
+c CONSONANTS (Non Pulmonic)
+c   Clicks
+'p' + '='   > d135  c Bilabial
+'!' + '<'   > d150  c Dental
+'!'	    > d151  c (Post) Alveolar
+d151 + '='  > d156  c Palatal Alveolar
+d151 + '>'  > d132  c Alvelar Lateral
+
+c   Voiced Implosives
+'b' + '>'   > d186  c Bilabial
+'d' + '>'   > d235  c Dental/Alveolar
+'j' + '>'   > d215  c Palatal
+'g' + '>'   > d169  c Velar
+'G' + '>'   > d253  c Uvular
+
+c   Ejective
+']' + ']'   > d039  c
+
+c =======================================================
+C OTHER SYMBOLS
+c   (left column)
+'w' + '='   > d227  c Voiceless Lab-Vel. Fric.
+'h' + '='   > d231  c Voiced Lab-Pal. approx.
+'H' + '='   > d075  c Voiceless Epiglot. fric.
+'Q' + '<'   > d185  c Voiced Epiglot. fric.
+'Q' + '='   > d251  c Epiglottal plosive
+
+c   (right column)
+'c' + '<'   > d254  c Alv.-Pal. fric. (unvoiced)
+'z' + '>'   > d252  c "     "    "    (voiced)
+'L' + '>'   > d228  c Alveolar lateral flap
+'H' + '>'   > d238  c Simultaneous esh & chi
+'#' + '&'   > d131  c Double articulation
+'@' + '&'   > d233  c Affricate
+
+c =======================================================
+c VOWELS
+c   Close
+'I' + '='   > d246  c  Cent. unrounded
+'U' + '='   > d172  c  Cent. rounded
+'u' + '='   > d181  c  Bk. unrounded
+
+c   Near Close
+'i' + '='   > d073  c Near front I
+'y' + '='   > d089  c "     "    Y
+'u' + '<'   > d085  c Near back omega
+
+c   Close Mid
+'o' + '>'   > d079  c Front slash o
+'E' + '='   > d130  c  Central Reversed e
+'O' + '='   > d080  c Central bar o
+'O' + '>'   > d070  c Back ram's horns
+
+c   Mid
+'e' + '='   > d171  c Central "schwa"
+
+c   Open Mid
+'e' + '<'   > d069  c Front epsilon
+'E' + '<'   > d191  c Front  oe
+'e' + '>'   > d206  c Central reversed epsilon
+'O' + '<'   > d207  c Central closed epsilon
+'u' + '>'   > d195  c Back turned v
+'o' + '<'   > d141  c Back open o
+
+c   Near Open
+'a' + '<'   > d081  c Front ae
+'a' + '>'   > d140  c Central turned a
+
+c   Open
+'E' + '>'   > d175  c Front ae
+'a' + '='   > d065  c Back script a
+'o' + '='   > d129  c Back script a
+
+c =======================================================
+c DIACRITICS
+'%'         > d056  c Voiceless
+d056 + '%'  > d164  c Voiced
+'h'  + '^'  > d072  c Aspirated
+d193 + '+'  > d166  c More rounded
+d170 + '_'  > d055  c Less rounded
+'+' 	    > d043  c Advanced
+'_'         > d061  c Retracted
+'"'         > d095  c Centralized
+d095 + '"'  > d126  c Mid centralized upper diac. x
+'$'         > d096  c Syllabic
+d096 + '$'  > d057  c Non-syllabic
+'['  + '['  > d213  c Rhoticity
+
+d164 + '%'  > d045  c  breathy
+c The 2 mappings to 'creaky' in IPA93 were preserved
+d057 + '$'  > d188  c Creaky      ($$$)
+d242 + '~'  > d188  c Also creaky (~~~)
+d054 + '{'  > d209  c Linguo-labial
+'w' + '^'   > d087  c Labilalized
+'j' + '^'   > d074  c Palatized
+d196 +  '^' > d236  c Velarized
+d192 + '^'  > d179  c Pharyngelized
+d041 + '~'  > d242  c Velarized or Pharyngelized
+d043 + '+'  > d163  c Raised
+d061 + '_'  > d162  c Lowered
+d163 + '+'  > d193  c Advanced Tongue Root
+d162 + '_'  > d170  c Retracted Tongue Root
+
+'{'         > d048  c Dental
+d048 + '{'  > d176  c Apical
+d176 + '{'  > d054  c Laminal
+'~'         > d041  c Nasalized
+'n' + '^'   > d060  c Nasal Release
+'l' + '^'   > d058  c Lateral Release ('el' not 1)
+d039 + ']'  > d124  c No audible release
+
+c =======================================================
+c SUPRASEGMENTALS
+'}'         > d200  c Primary stress
+d200 + '}'  > d199  c Secondary stress
+':'         > d249  c Long
+d249 + ':'  > d062  c Half long
+d126 + '"'  > d225  c Extra short
+'.'  + '<'  > d142  c Minor (foot) group
+'.'  + '='  > d146  c Major (intonation) group
+'.'         > d046  c Syllable break
+
+
+'#'  + '='  > d182  c (intermediate box)
+d182 + '='  > d237  c Linking
+
+c =======================================================
+c PITCH LEVELS
+c    Upper diacritic-type pitch levels
+'@' + '4'   > d137  c Extra High
+'@' + '3'   > d143  c High
+'@' + '2'   > d148  c Mid
+'@' + '1'   > d153  c Low
+'@' + '0'   > d158  c Extra Low
+
+c    'Stick' type pitch levels
+'#' + '4'   > d138  c Extra High   #4
+'#' + '3'   > d145  c High	   #3
+'#' + '2'   > d149  c Mid	   #2
+'#' + '1'   > d154  c Low	   #1
+'#' + '0'   > d159  c Extra Low    #0
+
+c =======================================================
+c PITCH CONTOURS
+c   Upper diacritic-type contours
+d153 + '3'  > d243  c Rising 		 @13
+d143 + '1'  > d230  c Falling	 	 @31
+
+d148 + '3'  > d157  c High rising 	 @23  NEW for IPA96
+d153 + '2'  > d136  c Low rising   	 @12  NEW for IPA96
+d243 + '1'  > d040  c Rising Falling     @131 NEW for IPA96
+
+c   'Stick figure' type contours
+d159 + '4'  > d232  c Rising		#04
+d138 + '0'  > d134  c Falling		#40
+d149 + '4'  > d216  c High rising	#24
+d159 + '2'  > d128  c Low rising	#02
+d154 + '4'  > d182  c Rising Falling (intermediate step)
+d182 + '1'  > d202  c   "      "        #141
+
+'#' +  '<'  > d155  c Downstep
+'#' +  '>'  > d139  c Upstep
+d155 + '<'  > d205  c Global fall
+d139 + '>'  > d204  c Global rise

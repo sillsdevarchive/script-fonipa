@@ -1,0 +1,10644 @@
+\k 0d33
+012345678
+1
+2  XX
+3 XXXX
+4 XXXX
+5 XXXX
+6  XX
+7  XX
+8  XX
+9  XX
+0
+1  XX
+2  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d33 0d60
+012345678
+1
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6
+7
+8
+9
+0
+
+\k 0d33 0d61
+012345678
+1
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7 XXXXXX
+8   XX
+9   XX
+0 XXXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6
+7
+8
+9
+0
+
+\k 0d33 0d62
+012345678
+1
+2 XX XX
+3 XX XX
+4 XX XX
+5 XX XX
+6 XX XX
+7 XX XX
+8 XX XX
+9 XX XX
+0 XX XX
+1 XX XX
+2 XX XX
+3 XX XX
+4 XX XX
+5 XX XX
+6
+7
+8
+9
+0
+
+\k 0d34
+\s 8
+012345678
+1
+2
+3XX   XX
+4XX   XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d34 0d34
+\s 8
+012345678
+1
+2 XX XX
+3  XXX
+4 XX XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d34 0d34 0d34
+\s 8
+012345678
+1
+2
+3 XX  XX
+4  XXXX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35
+012345678
+1
+2 XX XX
+3 XX XX
+4 XX XX
+5XXXXXXX
+6 XX XX
+7 XX XX
+8 XX XX
+9XXXXXXX
+0 XX XX
+1 XX XX
+2 XX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35 0d60
+012345678
+1
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7 X XX X
+8  XXXX
+9   XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35 0d60 0d60
+012345678
+1
+2
+3
+4XX
+5XXX
+6 XXX   X
+7  XXX  X
+8   XXX X
+9    XXXX
+0     XXX
+1  XXXXXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35 0d61
+012345678
+1
+2  X  X
+3  X  X
+4 XXXXXX
+5  X  X
+6  X  X
+7 XXXXXX
+8  X  X
+9  X  X
+0
+1   XX
+2   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35 0d61 0d61
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4X     X
+5XX   XX
+6 XXXXX
+7
+8
+9
+0
+
+\k 0d35 0d62
+012345678
+1
+2   XX
+3  XXXX
+4 X XX X
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35 0d62 0d62
+012345678
+1
+2
+3
+4  XXXXXX
+5     XXX
+6    XXXX
+7   XXX X
+8  XXX  X
+9 XXX   X
+0XXX
+1XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d35 0d94
+012345678
+1
+2
+3  XXXX X
+4 XX   XX
+5XX   XX
+6X   XX X
+7X  XX  X
+8X XX   X
+9 XX   XX
+0XX   XX
+1X XXXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d36
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4   XX
+5   XX
+6   XX
+7   XX
+8
+9
+0
+
+\k 0d36 0d36
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4  XXXX
+5 XX  XX
+6
+7
+8
+9
+0
+
+\k 0d36 0d36 0d36
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4 XXX XX
+5XX XXX
+6
+7
+8
+9
+0
+
+\k 0d37
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4  XXX
+5 XX XX
+6 XX XX
+7  XXX
+8
+9
+0
+
+\k 0d37 0d37
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4 XX  XX
+5  XXXX
+6   XX
+7
+8
+9
+0
+
+\k 0d37 0d37 0d37
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4XX   XX
+5XX   XX
+6
+7
+8
+9
+0
+
+\k 0d38
+012345678
+1
+2
+3XXX
+4  XX
+5   X
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1    X
+
+\k 0d38 0d109 0d94
+012345678
+1XXX
+2 XXX XX
+3 XX X XX
+4 XX X XX
+5 XX X XX
+6 XX X XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d39
+012345678
+1
+2   XX
+3   XX
+4  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d40
+012345678
+1
+2    XX
+3   XX
+4  XX
+5  XX
+6  XX
+7  XX
+8  XX
+9  XX
+0  XX
+1   XX
+2    XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d41
+012345678
+1
+2 XX
+3  XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1  XX
+2 XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d42
+012345678
+1
+2
+3
+4   X
+5 X X X
+6  XXX
+7XXXXXXX
+8  XXX
+9 X X X
+0   X
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d42 0d61
+012345678
+1
+2
+3
+4
+5
+6 XXXXXX
+7XX XX
+8XX XX
+9XX XX
+0XX XX
+1XX XX
+2 XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d42 0d94
+012345678
+1
+2X X X X
+3
+4
+5
+6
+7   X
+8 X X X
+9  XXX
+0XXXXXXX
+1  XXX
+2 X X X
+3   X
+4
+5
+6
+7
+8
+9
+0X X X X
+
+\k 0d43
+012345678
+1
+2
+3
+4
+5
+6   XX
+7   XX
+8 XXXXXX
+9   XX
+0   XX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d43 0d43
+012345678
+1
+2
+3
+4
+5
+6   XX
+7   XX
+8 XXXXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d43 0d43 0d43
+012345678
+1
+2
+3
+4
+5
+6   XX
+7   XX
+8 XXXX
+9   XX
+0   XX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d44
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1  XX
+2  XX
+3 XX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d45
+012345678
+1
+2
+3
+4
+5
+6
+7
+8 XXXXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d45 0d45
+012345678
+1
+2
+3
+4
+5
+6
+7
+8 XXXXXX
+9   XX
+0   XX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d45 0d45 0d45
+012345678
+1
+2
+3
+4
+5
+6 XX
+7 XX
+8 XXXX
+9 XX
+0 XX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d45 0d94
+012345678
+1
+2
+3
+4 XXXXX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d46
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1  XX
+2  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d46 0d60
+012345678
+1
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8
+9
+0
+
+\k 0d46 0d61
+012345678
+1
+2 XX  XX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XX  XX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7 XX  XX
+8
+9
+0
+
+\k 0d46 0d62
+012345678
+1
+2
+3
+4
+5   XX
+6    XX
+7XXXXXXX
+8    XX
+9   XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d47
+012345678
+1
+2
+3
+4      X
+5     XX
+6    XX
+7   XX
+8  XX
+9 XX
+0XX
+1X
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d48 0d94
+012345678
+1
+2  XXX
+3 XX XX
+4XX   XX
+5XX X XX
+6XX   XX
+7 XX XX
+8  XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d49
+012345678
+1
+2   XX
+3  XXX
+4 XXXX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2 XXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d49 0d94
+012345678
+1
+2   XX
+3  XXX
+4   XX
+5   XX
+6   XX
+7   XX
+8  XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d50
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX   XX
+5     XX
+6    XX
+7   XX
+8  XX
+9 XX
+0XX
+1XX    X
+2XXXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d50 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4    XX
+5   XX
+6  XX
+7 XX  X
+8XXXXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d51
+012345678
+1
+2 XXXXX
+3XX   XX
+4     XX
+5     XX
+6     XX
+7  XXXX
+8     XX
+9     XX
+0     XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d51 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4    XX
+5  XXX
+6    XX
+7XX  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d52
+012345678
+1
+2     X
+3    XX
+4   XXX
+5  XXXX
+6 XX XX
+7XX  XX
+8XXXXXXX
+9    XX
+0    XX
+1    XX
+2   XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d52 0d94
+012345678
+1
+2   XXX
+3  XXXX
+4 XX XX
+5XX  XX
+6XXXXXXX
+7    XX
+8   XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d53
+012345678
+1
+2XXXXXXX
+3XX
+4XX
+5XX
+6XX
+7XXXXXX
+8     XX
+9     XX
+0     XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d53 0d94
+012345678
+1
+2XXXXXX
+3XX
+4XX
+5XXXXX
+6    XX
+7XX  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d54
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX
+5XX
+6XX
+7XXXXXX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d54 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4XX
+5XXXXX
+6XX  XX
+7XX  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d55
+012345678
+1
+2XXXXXXX
+3XX   XX
+4X    XX
+5     XX
+6    XX
+7   XX
+8  XX
+9  XX
+0  XX
+1  XX
+2  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d55 0d94
+012345678
+1
+2XXXXXX
+3X   XX
+4    XX
+5   XX
+6  XX
+7  XX
+8  XX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d56
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7 XXXXX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d56 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4XX  XX
+5 XXXX
+6XX  XX
+7XX  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d57
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7 XXXXXX
+8     XX
+9     XX
+0     XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d57 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4XX  XX
+5 XXXXX
+6    XX
+7XX  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d58
+012345678
+1
+2
+3
+4
+5
+6  XXX
+7   X
+8
+9
+0   X
+1  XXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d58 0d58
+012345678
+1
+2
+3
+4
+5
+6
+7  XXX
+8   X
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d58 0d58 0d58
+012345678
+1
+2
+3
+4
+5
+6XXX XXX
+7 X   X
+8
+9
+0 X   X
+1XXX XXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59
+012345678
+1
+2
+3
+4
+5  XX
+6  XX
+7  XX
+8
+9
+0  XX
+1  XX
+2  XX
+3 XX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d34
+012345678
+1
+2 XX XX
+3 XX XX
+4 XX XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d36
+012345678
+1
+2   X
+3 XXXXX
+4XX X XX
+5XX X
+6XX X
+7 XXXXX
+8   X XX
+9   X XX
+0XX X XX
+1 XXXXX
+2   X
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d37
+012345678
+1
+2 XX
+3X  X   X
+4X  X  XX
+5X  X XX
+6 XX XX
+7   XX
+8  XX XX
+9 XX X  X
+0XX  X  X
+1X   X  X
+2     XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d38
+012345678
+1
+2 XXX
+3XX XX
+4XX XX
+5XX XX
+6 XXX
+7 XXX XX
+8XX XXX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d43
+012345678
+1
+2
+3
+4
+5  XX
+6  XX
+7XXXXXX
+8  XX
+9  XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d45
+012345678
+1
+2
+3
+4
+5
+6
+7XXXXXX
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d58
+012345678
+1
+2
+3
+4  XX
+5  XX
+6  XX
+7
+8
+9  XX
+0  XX
+1  XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d60
+012345678
+1
+2
+3     XX
+4    XX
+5   XX
+6  XX
+7 XX
+8  XX
+9   XX
+0    XX
+1     XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d61
+012345678
+1
+2
+3
+4
+5
+6XXXXXX
+7
+8XXXXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d62
+012345678
+1
+2
+3XX
+4 XX
+5  XX
+6   XX
+7    XX
+8   XX
+9  XX
+0 XX
+1XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d64
+012345678
+1
+2  XXXX
+3 X   XX
+4XX   XX
+5XX  XXX
+6XX X XX
+7XX X XX
+8XX X XX
+9XX X XX
+0XX XXX
+1 X
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d91
+012345678
+1
+2  XXXX
+3  XX
+4  XX
+5  XX
+6  XX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d93
+012345678
+1
+2 XXXX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d94
+012345678
+1
+2   X
+3  XXX
+4 XX XX
+5XX   XX
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d123
+012345678
+1
+2   XXX
+3  XX
+4  XX
+5  XX
+6  XX
+7 XX
+8  XX
+9  XX
+0  XX
+1  XX
+2   XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d125
+012345678
+1
+2 XXX
+3   XX
+4   XX
+5   XX
+6   XX
+7    XX
+8   XX
+9   XX
+0   XX
+1   XX
+2 XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d59 0d126
+012345678
+1
+2 XXX XX
+3XX XXX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d60
+012345678
+1
+2
+3     XX
+4    XX
+5   XX
+6  XX
+7 XX
+8  XX
+9   XX
+0    XX
+1     XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d61
+012345678
+1
+2
+3
+4
+5
+6XXXXXX
+7
+8XXXXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d62
+012345678
+1
+2
+3XX
+4 XX
+5  XX
+6   XX
+7    XX
+8   XX
+9  XX
+0 XX
+1XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d63
+012345678
+1
+2 XXXX
+3XX  XX
+4XX  XX
+5    XX
+6   XX
+7  XX
+8  XX
+9  XX
+0
+1  XX
+2  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d63 0d60
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX  XX
+5 XX
+6  XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d63 0d60 0d94
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX
+5  XX
+6   XX
+7   XX
+8  XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d63 0d61
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX  XX
+5     XX
+6    XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64
+\s 8
+012345678
+1
+2
+3     XXX
+4    XX
+5    X
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d48
+\s 8
+012345678
+1
+2XX  XX
+3 XX  XX
+4  XX  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d48 0d48
+\s 8
+012345678
+1XX  XX
+2 XX  XX
+3  XX  XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d48 0d50
+\s 8
+012345678
+1XX
+2 XX
+3  XXXXX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d48 0d52
+\s 8
+012345678
+1 XX  XX
+2  XXXX
+3   XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d48 0d52 0d48
+\s 8
+012345678
+1XX  XX
+2 XXXXXX
+3  XX  XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d49
+\s 8
+012345678
+1
+2 XX
+3  XX
+4   XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d49 0d49
+\s 8
+012345678
+1 XX
+2  XX
+3   XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d49 0d50
+\s 8
+012345678
+1
+2XX
+3 XX
+4  XXXXX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d49 0d51
+\s 8
+012345678
+1
+2 XX  XX
+3  XXXX
+4   XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d49 0d51 0d49
+\s 8
+012345678
+1
+2XX  XX
+3 XXXXXX
+4  XX  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d50
+\s 8
+012345678
+1
+2
+3XXXXXXX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d50 0d48
+\s 8
+012345678
+1XXXXX
+2    XX
+3     XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d50 0d49
+\s 8
+012345678
+1
+2XXXXX
+3    XX
+4     XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d50 0d50
+\s 8
+012345678
+1XXXXXXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d50 0d51
+\s 8
+012345678
+1
+2     XX
+3    XX
+4XXXXX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d50 0d52
+\s 8
+012345678
+1     XX
+2    XX
+3XXXXX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d51
+\s 8
+012345678
+1
+2    XX
+3   XX
+4  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d51 0d49
+\s 8
+012345678
+1
+2   XX
+3  XXXX
+4 XX  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d51 0d49 0d51
+\s 8
+012345678
+1
+2  XX  XX
+3 XXXXXX
+4XX  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d51 0d50
+\s 8
+012345678
+1
+2  XXXXX
+3 XX
+4XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d51 0d51
+\s 8
+012345678
+1    XX
+2   XX
+3  XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d52
+\s 8
+012345678
+1
+2  XX  XX
+3 XX  XX
+4XX  XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d52 0d48
+\s 8
+012345678
+1   XX
+2  XXXX
+3 XX  XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d52 0d48 0d52
+\s 8
+012345678
+1  XX  XX
+2 XXXXXX
+3XX  XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d52 0d50
+\s 8
+012345678
+1  XXXXX
+2 XX
+3XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d64 0d52 0d52
+\s 8
+012345678
+1  XX  XX
+2 XX  XX
+3XX  XX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d65
+012345678
+1
+2   X
+3  XXX
+4 XX XX
+5XX   XX
+6XX   XX
+7XX   XX
+8XXXXXXX
+9XX   XX
+0XX   XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d65 0d60
+012345678
+1
+2
+3
+4
+5
+6 XXX  XX
+7XX XXXX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX XXXX
+2 XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d66
+012345678
+1
+2XXXXXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7 XXXXX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d66 0d61
+012345678
+1
+2
+3
+4
+5
+6XXXXXX
+7 XX  XX
+8 XX  XX
+9 XXXXX
+0 XX  XX
+1 XX  XX
+2XXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d67
+012345678
+1
+2  XXXX
+3 XX  XX
+4XX    X
+5XX
+6XX
+7XX
+8XX
+9XX
+0XX    X
+1 XX  XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d68
+012345678
+1
+2XXXXXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d69
+012345678
+1
+2XXXXXXX
+3 XX   X
+4 XX
+5 XX
+6 XX
+7 XXXX
+8 XX
+9 XX
+0 XX
+1 XX   X
+2XXXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d69 0d60
+012345678
+1
+2
+3
+4
+5
+6 XX XX
+7X  X  X
+8X  X  X
+9X  XXXX
+0X  X
+1X  X
+2 XX XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d69 0d62
+012345678
+1
+2
+3
+4
+5
+6 XXXXXX
+7X  X  X
+8X  X
+9X  XXX
+0X  X
+1X  X  X
+2 XXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d70
+012345678
+1
+2XXXXXXX
+3 XX   X
+4 XX
+5 XX
+6 XX
+7 XXXX
+8 XX
+9 XX
+0 XX
+1 XX
+2XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d71
+012345678
+1
+2  XXXX
+3 XX  XX
+4XX    X
+5XX
+6XX
+7XX
+8XX  XXX
+9XX   XX
+0XX   XX
+1 XX  XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d71 0d61
+012345678
+1
+2
+3
+4
+5
+6  XXXX
+7 XX  XX
+8XX
+9XX  XXX
+0XX   XX
+1 XX  XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d71 0d62
+012345678
+1
+2
+3     XX
+4    XX X
+5    XX
+6  XXXX
+7 XX XX
+8XX
+9XX XXX
+0XX  XX
+1 XX XX
+2  XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d72
+012345678
+1
+2XX   XX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XXXXXXX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d72 0d61
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7XX   XX
+8XX   XX
+9XXXXXXX
+0XX   XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d72 0d62
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXX  XX
+3     XX
+4 XX  XX
+5  XXXX
+6
+7
+8
+9
+0
+
+\k 0d73
+012345678
+1
+2  XXXX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61
+012345678
+1
+2
+3   XX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d34
+012345678
+1
+2
+3 XX  XX
+4 XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d34 0d34
+012345678
+1
+2 XX XX
+3  XXX
+4 XX XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d34 0d34 0d34
+012345678
+1
+2
+3 XX  XX
+4  XXXX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d48
+012345678
+1
+2XX  XX
+3 XX  XX
+4  XX  XX
+5
+6   XXX
+7    XX
+8    XX
+9  XXXXXX
+0    XX
+1    XX
+2   XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d49
+012345678
+1
+2 XX
+3  XX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d49 0d50
+012345678
+1
+2XX
+3 XX
+4  XXXXX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d49 0d51
+012345678
+1
+2 XX  XX
+3  XXXX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d49 0d51 0d49
+012345678
+1
+2XX  XX
+3 XXXXXX
+4  XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d50
+012345678
+1
+2
+3XXXXXXX
+4
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d50 0d49
+012345678
+1
+2XXXXX
+3    XX
+4     XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d50 0d51
+012345678
+1
+2     XX
+3    XX
+4XXXXX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d51
+012345678
+1
+2     XX
+3    XX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d51 0d49
+012345678
+1
+2   XX
+3  XXXX
+4 XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d51 0d49 0d51
+012345678
+1
+2  XX  XX
+3 XXXXXX
+4XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d51 0d50
+012345678
+1
+2  XXXXX
+3 XX
+4XX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d64 0d52
+012345678
+1
+2  XX  XX
+3 XX  XX
+4XX  XX
+5
+6 XXX
+7  XX
+8  XX
+9XXXXXX
+0  XX
+1  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d94
+012345678
+1
+2  XX
+3
+4 XXX
+5  XX
+6XXXXXX
+7  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d73 0d61 0d126
+012345678
+1
+2
+3 XXX XX
+4XX XXX
+5
+6  XXX
+7   XX
+8   XX
+9 XXXXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d74
+012345678
+1
+2   XXXX
+3    XX
+4    XX
+5    XX
+6    XX
+7    XX
+8    XX
+9    XX
+0XX  XX
+1XX  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d75
+012345678
+1
+2XXX  XX
+3 XX  XX
+4 XX  XX
+5 XX XX
+6 XXXX
+7 XXX
+8 XXXX
+9 XX XX
+0 XX  XX
+1 XX  XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d76
+012345678
+1
+2XXXX
+3 XX
+4 XX
+5 XX
+6 XX
+7 XX
+8 XX
+9 XX
+0 XX
+1 XX   X
+2XXXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d76 0d60
+012345678
+1
+2    XXX
+3   XX XX
+4   XX
+5   XX
+6  XXX
+7  XXX
+8 XX XX
+9 XX XX
+0 XX XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d76 0d61
+012345678
+1
+2
+3
+4
+5
+6XXXX
+7 XX
+8 XX
+9 XX
+0 XX
+1 XX   X
+2XXXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d76 0d62
+012345678
+1
+2  XX  XX
+3   XXXX
+4    XX
+5    XX
+6    XX
+7    XX
+8    XX
+9    XX
+0    XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d77
+012345678
+1
+2XX   XX
+3XXX XXX
+4XXXXXXX
+5XX X XX
+6XX X XX
+7XX   XX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d78
+012345678
+1
+2XX   XX
+3XX   XX
+4XXX  XX
+5XXXX XX
+6XX XXXX
+7XX  XXX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d78 0d61
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7XXX  XX
+8XXXX XX
+9XX XXXX
+0XX  XXX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d78 0d61 0d94
+012345678
+1
+2XX  XX
+3XXX XX
+4XXXXXX
+5XX XXX
+6XX  XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d79
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XX   XX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d79 0d61
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX   XX
+9XXXXXXX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d79 0d61 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4XXXXXX
+5XX  XX
+6 XXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d79 0d62
+012345678
+1
+2
+3
+4
+5
+6 X   X
+7XXX XXX
+8 XX XX
+9  XXX
+0  XXX
+1 XX XX
+2  XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d79 0d62 0d94
+012345678
+1
+2 X   X
+3XXX XXX
+4  XXX
+5 XX XX
+6  XXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d80
+012345678
+1
+2XXXXXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7 XXXXX
+8 XX
+9 XX
+0 XX
+1 XX
+2XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d81
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XX   XX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX X XX
+2 XXXXX
+3   XX
+4    XXX
+5
+6
+7
+8
+9
+0
+
+\k 0d81 0d60
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX  XX
+5 XX
+6  XX
+7   XX
+8 XXXXXX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d81 0d61
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX  XX
+5     XX
+6    XX
+7   XX
+8 XXXXXX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d82
+012345678
+1
+2XXXXXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7 XXXXX
+8 XX XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d82 0d60
+012345678
+1
+2
+3
+4
+5
+6   XXXX
+7    XX
+8    XX
+9    XX
+0    XX
+1XX  XX
+2 XXXXX
+3    XX
+4    XX X
+5     XXX
+6
+7
+8
+9
+0
+
+\k 0d82 0d61
+012345678
+1
+2
+3
+4
+5
+6XXXXXX
+7 XX  XX
+8 XX  XX
+9 XXXXX
+0 XX XX
+1 XX  XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d82 0d62
+012345678
+1
+2
+3
+4
+5
+6XXX  XX
+7 XX  XX
+8 XX XX
+9 XXXXX
+0 XX  XX
+1 XX  XX
+2XXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d83
+012345678
+1
+2 XXXXX
+3XX   XX
+4XX    X
+5 XX
+6  XX
+7   XX
+8    XX
+9     XX
+0X    XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d84
+012345678
+1
+2XXXXXX
+3X XX X
+4  XX
+5  XX
+6  XX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d85
+012345678
+1
+2XX   XX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XX   XX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d85 0d61
+012345678
+1
+2
+3
+4
+5
+6 XX  XX
+7 XX  XX
+8 XX  XX
+9XXXXXXXX
+0 XX  XX
+1 XX  XX
+2  XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d85 0d61 0d94
+012345678
+1
+2 XX  XX
+3 XX  XX
+4XXXXXXXX
+5 XX  XX
+6  XXX XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d86
+012345678
+1
+2XX   XX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XX   XX
+8XX   XX
+9 XX XX
+0 XX XX
+1  XXX
+2   X
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d87
+012345678
+1
+2XX   XX
+3XX   XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XX   XX
+8XX X XX
+9XX X XX
+0XXXXXXX
+1XXX XXX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d88
+012345678
+1
+2XX   XX
+3XX   XX
+4 XX XX
+5 XX XX
+6  XXX
+7  XXX
+8  XXX
+9 XX XX
+0 XX XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d89
+012345678
+1
+2XX  XX
+3XX  XX
+4XX  XX
+5XX  XX
+6XX  XX
+7 XXXX
+8  XX
+9  XX
+0  XX
+1  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d90
+012345678
+1
+2XXXXXXX
+3X    XX
+4    XX
+5    XX
+6   XX
+7  XXX
+8  XX
+9 XX
+0 XX
+1XX    X
+2XXXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d91
+012345678
+1
+2  XXXX
+3  XX
+4  XX
+5  XX
+6  XX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d91 0d91
+012345678
+1
+2 XXX
+3 XXX
+4 XX
+5  XX
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d91 0d91 0d91
+012345678
+1
+2
+3
+4
+5
+6
+7  XX
+8 XXX
+9  XX  X
+0   XXX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d92
+012345678
+1
+2
+3
+4X
+5XX
+6 XX
+7  XX
+8   XX
+9    XX
+0     XX
+1      X
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d93
+012345678
+1
+2 XXXX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d93 0d93
+012345678
+1
+2 XXX
+3 XXX
+4  XX
+5  XX
+6 XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d93 0d93 0d93
+012345678
+1
+2 XXXXX
+3    XX
+4    XX
+5    XX
+6    XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d94
+012345678
+1
+2   X
+3  XXX
+4 XX XX
+5XX   XX
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d95
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4XXXXXXXX
+5
+6
+7
+8
+9
+0
+
+\k 0d96
+012345678
+1
+2 XX
+3  XX
+4   XX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d97
+012345678
+1
+2
+3
+4
+5
+6 XXXX
+7    XX
+8 XXXXX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d97 0d60
+012345678
+1
+2
+3
+4
+5
+6XXX XX
+7   X  X
+8   X  X
+9 XXXXXX
+0X  X
+1X  X
+2 XX XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d97 0d61
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d97 0d62
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XXXXX
+1 XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d98
+012345678
+1
+2XXX
+3 XX
+4 XX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XX XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d98 0d61
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XXXXX
+3 XX
+4 XX
+5XXXX
+6
+7
+8
+9
+0
+
+\k 0d98 0d61 0d36
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XXXXX
+3 XX
+4 XX
+5XXXX
+6
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d98 0d62
+012345678
+1
+2  XXX
+3 XX XX
+4 XX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XX XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d99
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX
+9XX
+0XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d99 0d60
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX
+9XX
+0XX  XX
+1XX X XX
+2 XXXXX
+3  XX
+4 XX
+5
+6
+7
+8
+9
+0
+
+\k 0d99 0d61
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX
+9XX
+0XX
+1XX   XX
+2 XXXXX
+3   XX
+4    XX
+5  XXX
+6
+7
+8
+9
+0
+
+\k 0d99 0d62
+012345678
+1
+2
+3     XX
+4    XX X
+5    XX
+6 XXXXX
+7XX  XX
+8XX
+9XX
+0XX
+1XX  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d100
+012345678
+1
+2   XXX
+3    XX
+4    XX
+5    XX
+6 XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d100 0d60
+012345678
+1
+2   XXX
+3    XX
+4    XX
+5    XX
+6 XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXXXX
+3    XX
+4    XX X
+5     XXX
+6
+7
+8
+9
+0
+
+\k 0d100 0d61
+012345678
+1
+2XX
+3 XX
+4  XXXXX
+5XXXXX
+6    XX
+7 XXXXXX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d100 0d62
+012345678
+1
+2     XX
+3    XX X
+4    XX
+5    XX
+6 XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX   XX
+9XXXXXXX
+0XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101 0d60
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX
+9 XXXX
+0XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101 0d61
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8     XX
+9XXXXXXX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101 0d61 0d94
+012345678
+1
+2 XXXX
+3    XX
+4XXXXXX
+5XX  XX
+6 XXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101 0d62
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8     XX
+9  XXXX
+0     XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101 0d62 0d94
+012345678
+1
+2 XXXXX
+3XX   XX
+4   XXX
+5XX   XX
+6 XXXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d101 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4XXXXXX
+5XX
+6 XXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d102
+012345678
+1
+2   XXX
+3  XX XX
+4  XX
+5  XX
+6  XX
+7XXXXXX
+8  XX
+9  XX
+0  XX
+1  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d102 0d61
+012345678
+1
+2
+3  XXX
+4   X
+5   X
+6 XXXXX
+7XX X XX
+8XX X XX
+9XX X XX
+0XX X XX
+1XX X XX
+2 XXXXX
+3   X
+4   X
+5  XXX
+6
+7
+8
+9
+0
+
+\k 0d103
+012345678
+1
+2
+3
+4
+5
+6 XXX XX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXXXX
+3    XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d103 0d61
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7XX   XX
+8 XX XX
+9 XX XX
+0  XXX
+1  XXX
+2  XXX
+3 XX XX
+4 XX XX
+5  XXX
+6
+7
+8
+9
+0
+
+\k 0d103 0d61 0d94
+012345678
+1
+2XX   XX
+3 XX XX
+4  XXX
+5  XXX
+6 XX XX
+7 XX XX
+8  XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d103 0d62
+012345678
+1
+2
+3     XX
+4    XX X
+5    XX
+6 XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXXXX
+3    XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d104
+012345678
+1
+2XXX
+3 XX
+4 XX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d104 0d60
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d104 0d60 0d94
+012345678
+1
+2  XXXX
+3 XX  XX
+4 XX
+5 XXXXX
+6 XX  XX
+7 XX  XX
+8XXX  XX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d104 0d61
+012345678
+1
+2
+3
+4
+5
+6XX  XXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXXXX
+3    XX
+4    XX
+5    XXX
+6
+7
+8
+9
+0
+
+\k 0d104 0d62
+012345678
+1
+2XXX
+3 XX
+4XXXXX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d104 0d94
+012345678
+1
+2XXX
+3 XX
+4 XXXXX
+5 XX  XX
+6 XX  XX
+7 XX  XX
+8XXX  XX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105
+012345678
+1
+2
+3   XX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d34
+012345678
+1
+2
+3 XX  XX
+4 XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d34 0d34
+012345678
+1
+2 XX XX
+3  XXX
+4 XX XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d34 0d34 0d34
+012345678
+1
+2
+3 XX  XX
+4  XXXX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d61
+012345678
+1
+2
+3
+4
+5
+6  XXXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d61 0d94
+012345678
+1
+2 XXXX
+3  XX
+4  XX
+5  XX
+6 XXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d48
+012345678
+1
+2XX  XX
+3 XX  XX
+4  XX  XX
+5
+6   XXX
+7    XX
+8    XX
+9    XX
+0    XX
+1    XX
+2   XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d49
+012345678
+1
+2 XX
+3  XX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d49 0d50
+012345678
+1
+2XX
+3 XX
+4  XXXXX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d49 0d51
+012345678
+1
+2 XX  XX
+3  XXXX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d49 0d51 0d49
+012345678
+1
+2XX  XX
+3 XXXXXX
+4  XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d50
+012345678
+1
+2
+3XXXXXXX
+4
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d50 0d49
+012345678
+1
+2XXXXX
+3    XX
+4     XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d50 0d51
+012345678
+1
+2     XX
+3    XX
+4XXXXX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d51
+012345678
+1
+2     XX
+3    XX
+4   XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d51 0d49
+012345678
+1
+2   XX
+3  XXXX
+4 XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d51 0d49 0d51
+012345678
+1
+2  XX  XX
+3 XXXXXX
+4XX  XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d51 0d50
+012345678
+1
+2  XXXXX
+3 XX
+4XX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d64 0d52
+012345678
+1
+2  XX  XX
+3 XX  XX
+4XX  XX
+5
+6 XXX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d94
+012345678
+1
+2  XX
+3
+4 XXX
+5  XX
+6  XX
+7  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d105 0d126
+012345678
+1
+2
+3 XXX XX
+4XX XXX
+5
+6  XXX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d106
+012345678
+1
+2
+3    XX
+4    XX
+5
+6   XXX
+7    XX
+8    XX
+9    XX
+0    XX
+1    XX
+2    XX
+3XX  XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d106 0d34
+012345678
+1
+2
+3  XX  XX
+4  XX  XX
+5
+6   XXX
+7    XX
+8    XX
+9    XX
+0    XX
+1    XX
+2    XX
+3XX  XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d106 0d34 0d34
+012345678
+1
+2  XX XX
+3   XXX
+4  XX XX
+5
+6   XXX
+7    XX
+8    XX
+9    XX
+0    XX
+1    XX
+2    XX
+3XX  XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d106 0d60
+012345678
+1
+2
+3    XX
+4    XX
+5
+6   XXX
+7    XX
+8    XX
+9    XX
+0    XX
+1    XX
+2 XXXXXX
+3XX  XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d106 0d61
+012345678
+1
+2
+3
+4
+5
+6  XXXX
+7   XX
+8   XX
+9   XX
+0   XX
+1 XXXXXX
+2   XX
+3   XX
+4XX XX
+5 XXX
+6
+7
+8
+9
+0
+
+\k 0d106 0d62
+012345678
+1
+2
+3     XX
+4    XX X
+5    XX
+6  XXXX
+7   XX
+8   XX
+9   XX
+0   XX
+1 XXXXXX
+2   XX
+3   XX
+4XX XX
+5 XXX
+6
+7
+8
+9
+0
+
+\k 0d106 0d94
+012345678
+1
+2   XX
+3
+4  XXX
+5   XX
+6   XX
+7   XX
+8XX XX
+9 XXX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d106 0d126
+012345678
+1
+2
+3 XXX XX
+4XX XXX
+5
+6   XXX
+7    XX
+8    XX
+9    XX
+0    XX
+1    XX
+2    XX
+3XX  XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d107
+012345678
+1
+2XXX
+3 XX
+4 XX
+5 XX
+6 XX  XX
+7 XX XX
+8 XXXX
+9 XXX
+0 XXXX
+1 XX XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d107 0d62
+012345678
+1
+2  XXX
+3 XX XX
+4 XX
+5 XX
+6 XX  XX
+7 XX XX
+8 XXXX
+9 XXX
+0 XXXX
+1 XX XX
+2XXX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d108
+012345678
+1
+2  XXX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d108 0d60
+012345678
+1
+2XXX
+3 XX
+4 XX
+5 XX
+6 XX
+7 XX
+8 XX
+9 XX
+0 XX
+1 XX
+2 XX
+3 XX
+4 XX  XX
+5  XXXX
+6
+7
+8
+9
+0
+
+\k 0d108 0d61
+012345678
+1
+2  XXX
+3   XX
+4   XX
+5   XX
+6 XXXX
+7XX XX
+8 XXXXXX
+9   XX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d108 0d62
+012345678
+1
+2XXX
+3 XX
+4 XX
+5 XX
+6 XXXXXX
+7 XX  XX
+8 XX  XX
+9 XX XX
+0 XXXXX
+1 XX  XX
+2XXXX XX
+3     XX
+4 XX  XX
+5  XXXX
+6
+7
+8
+9
+0
+
+\k 0d108 0d94
+012345678
+1
+2 XXX
+3  XX
+4  XX
+5  XX
+6  XX
+7  XX
+8 XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d109
+012345678
+1
+2
+3
+4
+5
+6XXX XX
+7XXXXXXX
+8XX X XX
+9XX X XX
+0XX X XX
+1XX X XX
+2XX X XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d109 0d62
+012345678
+1
+2
+3
+4
+5
+6XXX XX
+7XXXXXXX
+8XX X XX
+9XX X XX
+0XX X XX
+1XX X XX
+2XX X XX
+3     XX
+4  XX XX
+5   XXX
+6
+7
+8
+9
+0
+
+\k 0d109 0d62 0d36
+012345678
+1
+2
+3
+4
+5
+6XXX XX
+7XXXXXXX
+8XX X XX
+9XX X XX
+0XX X XX
+1XX X XX
+2XX X XX
+3     XX
+4  XX XX
+5   XXX
+6
+7  XX
+8  XX
+9  XX
+0  XX
+
+\k 0d109 0d62 0d37
+012345678
+1
+2
+3
+4
+5
+6XXX XX
+7XXXXXXX
+8XX X XX
+9XX X XX
+0XX X XX
+1XX X XX
+2XX X XX
+3     XX
+4  XX XX
+5   XXX
+6
+7  XXX
+8 XX XX
+9 XX XX
+0  XXX
+
+\k 0d109 0d62 0d94
+012345678
+1
+2XXX XX
+3XX X XX
+4XX X XX
+5XX X XX
+6XX X XX
+7     XX
+8   XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d109 0d94
+012345678
+1
+2XXX XX
+3XX X XX
+4XX X XX
+5XX X XX
+6XX X XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d110
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XX  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d110 0d60
+012345678
+1
+2
+3
+4
+5
+6XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2XX  XX
+3    XX
+4    XX X
+5     XXX
+6
+7
+8
+9
+0
+
+\k 0d110 0d60 0d36
+012345678
+1
+2
+3
+4
+5
+6XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2XX  XX
+3    XX
+4XX  XX X
+5XX   XXX
+6XX
+7XX
+8
+9
+0
+
+\k 0d110 0d60 0d37
+012345678
+1
+2
+3
+4
+5
+6XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2XX  XX
+3    XX
+4    XX X
+5     XXX
+6 XXX
+7XX XX
+8XX XX
+9 XXX
+0
+
+\k 0d110 0d60 0d94
+012345678
+1
+2XXXXX
+3XX  XX
+4XX  XX
+5XX  XX
+6XX  XX
+7    XX
+8     XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d110 0d61
+012345678
+1
+2
+3
+4
+5
+6 XX XXX
+7  XX  XX
+8  XX  XX
+9  XX  XX
+0  XX  XX
+1  XX  XX
+2  XX  XX
+3  XX
+4X XX
+5XXX
+6
+7
+8
+9
+0
+
+\k 0d110 0d61 0d36
+012345678
+1
+2
+3
+4
+5
+6 XX XXX
+7  XX  XX
+8  XX  XX
+9  XX  XX
+0  XX  XX
+1  XX  XX
+2  XX  XX
+3  XX
+4X XX  XX
+5XXX   XX
+6      XX
+7      XX
+8
+9
+0
+
+\k 0d110 0d61 0d37
+012345678
+1
+2
+3
+4
+5
+6 XX XXX
+7  XX  XX
+8  XX  XX
+9  XX  XX
+0  XX  XX
+1  XX  XX
+2  XX  XX
+3  XX
+4X XX
+5XXX
+6    XXX
+7   XX XX
+8   XX XX
+9    XXX
+0
+
+\k 0d110 0d61 0d94
+012345678
+1
+2 XX XXX
+3  XX  XX
+4  XX  XX
+5  XX  XX
+6  XX  XX
+7  XX
+8XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d110 0d62
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XX  XX
+3     XX
+4  XX XX
+5   XXX
+6
+7
+8
+9
+0
+
+\k 0d110 0d62 0d36
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XX  XX
+3     XX
+4  XX XX
+5   XXX
+6
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d110 0d62 0d37
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XX  XX
+3     XX
+4  XX XX
+5   XXX
+6
+7  XXX
+8 XX XX
+9 XX XX
+0  XXX
+
+\k 0d110 0d62 0d94
+012345678
+1
+2XX XXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7     XX
+8   XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d110 0d62 0d94 0d64
+012345678
+1     XXX
+2XX XXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7     XX
+8   XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d110 0d94
+012345678
+1
+2XX XXX
+3 XX  XX
+4 XX  XX
+5 XX  XX
+6 XX  XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d111
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d111 0d60
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8     XX
+9     XX
+0     XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d111 0d61
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d111 0d62
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8XX  XXX
+9XX X XX
+0XXX  XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d111 0d62 0d94
+012345678
+1
+2 XXXXX
+3XX  XXX
+4XX X XX
+5XXX  XX
+6 XXXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d111 0d94
+012345678
+1
+2 XXXX
+3XX  XX
+4XX  XX
+5XX  XX
+6 XXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d112
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XXXXX
+3 XX
+4 XX
+5XXXX
+6
+7
+8
+9
+0
+
+\k 0d112 0d61
+012345678
+1
+2
+3 XXXXX
+4XX   XX
+5X     X
+6X     X
+7X  X  X
+8X  X  X
+9X     X
+0X     X
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d112 0d62
+012345678
+1
+2  XXX
+3 XX XX
+4 XX
+5 XX
+6 XXXXX
+7 XX  XX
+8 XX  XX
+9 XX  XX
+0 XX  XX
+1 XX  XX
+2 XXXXX
+3 XX
+4 XX
+5XXXX
+6
+7
+8
+9
+0
+
+\k 0d113
+012345678
+1
+2
+3
+4
+5
+6 XXX XX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXXXX
+3    XX
+4    XX
+5   XXXX
+6
+7
+8
+9
+0
+
+\k 0d113 0d62
+012345678
+1
+2
+3     XX
+4    XX X
+5    XX
+6 XXXXX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXXXX
+3    XX
+4    XX
+5   XXXX
+6
+7
+8
+9
+0
+
+\k 0d114
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX
+9 XX
+0 XX
+1 XX
+2XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d114 0d60
+012345678
+1
+2
+3
+4
+5
+6XX XXX
+7 XX  XX
+8 XX
+9 XX
+0 XX
+1 XX
+2 XX
+3 XX
+4 XX XX
+5  XXX
+6
+7
+8
+9
+0
+
+\k 0d114 0d61
+012345678
+1
+2
+3
+4
+5
+6   XXXX
+7    XX
+8    XX
+9    XX
+0    XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d114 0d62
+012345678
+1
+2
+3
+4
+5
+6  XXXX
+7 XX  XX
+8 XX
+9 XX
+0 XX
+1 XX
+2XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d115
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8 XX
+9  XXX
+0    XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d115 0d60
+012345678
+1
+2
+3
+4
+5
+6 XXXXX
+7XX   XX
+8 XX
+9  XXX
+0    XX
+1XX   XX
+2XXXXXX
+3XX
+4XX XX
+5 XXX
+6
+7
+8
+9
+0
+
+\k 0d115 0d61
+012345678
+1
+2    XXX
+3   XX XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2   XX
+3   XX
+4XX XX
+5 XXX
+6
+7
+8
+9
+0
+
+\k 0d116
+012345678
+1
+2
+3  XX
+4  XX
+5  XX
+6XXXXXX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX XX
+2   XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d116 0d60
+012345678
+1
+2
+3  XX
+4  XX
+5  XX
+6XXXXXX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX
+2  XX
+3  XX
+4  XX XX
+5   XXX
+6
+7
+8
+9
+0
+
+\k 0d116 0d61
+012345678
+1
+2  XXX
+3 XX XX
+4XX   XX
+5XX   XX
+6XX   XX
+7XXXXXXX
+8XX   XX
+9XX   XX
+0XX   XX
+1 XX XX
+2  XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d116 0d62
+012345678
+1
+2   XX
+3  XX X
+4  XX
+5  XX
+6XXXXXX
+7  XX
+8  XX
+9  XX
+0  XX
+1  XX XX
+2   XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d116 0d126 0d126
+012345678
+1
+2
+3   XX
+4   XX
+5   XX
+6 XXXXXX
+7   XX
+8 XXXX XX
+9XX XXXX
+0   XX
+1   XX XX
+2    XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117
+012345678
+1
+2
+3
+4
+5
+6XX  XX
+7XX  XX
+8XX  XX
+9XX  XX
+0XX  XX
+1XX  XX
+2 XXX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117 0d60
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7 XX XX
+8 XX XX
+9XX   XX
+0XX   XX
+1XX   XX
+2 XXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117 0d60 0d94
+012345678
+1
+2XX   XX
+3 XX XX
+4XX   XX
+5XX   XX
+6 XXXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117 0d61
+012345678
+1
+2
+3
+4
+5
+6XX X XX
+7XX X XX
+8XX X XX
+9XX X XX
+0XX X XX
+1XXXXXXX
+2 XX XXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117 0d61 0d94
+012345678
+1
+2XX X XX
+3XX X XX
+4XX X XX
+5XX X XX
+6 XXXXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117 0d62
+012345678
+1
+2
+3
+4
+5
+6   X
+7  XXX
+8 XX XX
+9 XX XX
+0XX   XX
+1XX   XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d117 0d94
+012345678
+1
+2XX  XX
+3XX  XX
+4XX  XX
+5XX  XX
+6 XXX XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d118
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7XX   XX
+8XX   XX
+9 XX XX
+0 XX XX
+1  XXX
+2   X
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d118 0d61
+012345678
+1
+2
+3
+4
+5
+6XX  XX
+7XX   XX
+8XX   XX
+9XX   XX
+0XX   XX
+1XX  XX
+2 XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d119
+012345678
+1
+2
+3
+4
+5
+6X     X
+7XX   XX
+8XX X XX
+9XX X XX
+0 XXXXX
+1 XXXXX
+2  X X
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d119 0d60
+012345678
+1
+2
+3
+4
+5
+6XX  XX
+7 XX  XX
+8 XX  XX
+9XX X XX
+0XX X XX
+1 XXXXX
+2 XX XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d119 0d61
+012345678
+1
+2
+3
+4
+5
+6  X X
+7 XXXXX
+8 XXXXX
+9XX X XX
+0XX X XX
+1XX   XX
+2X     X
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d119 0d62
+012345678
+1
+2
+3
+4
+5
+6XX X XX
+7XX X XX
+8XX X XX
+9XX X XX
+0XX X XX
+1XXXXXXX
+2 XX XXX
+3     XX
+4     XX
+5     XX
+6
+7
+8
+9
+0
+
+\k 0d119 0d94
+012345678
+1
+2X     X
+3XX X XX
+4XX X XX
+5 XXXXX
+6  X X
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d120
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7 XX XX
+8  XXX
+9  XXX
+0  XXX
+1 XX XX
+2XX   XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d120 0d61
+012345678
+1
+2
+3
+4
+5
+6XX   XX
+7 XX  XX
+8  XX XX
+9  XXXX
+0  XXX
+1  XXX
+2 XXXX
+3XX XX
+4XX  XX
+5XX   XX
+6
+7
+8
+9
+0
+
+\k 0d121
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7
+8
+9
+0
+
+\k 0d121 0d36
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d121 0d36 0d36
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7  XXXX
+8 XX  XX
+9
+0
+
+\k 0d121 0d36 0d36 0d36
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7 XXX XX
+8XX XXX
+9
+0
+
+\k 0d121 0d37
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7  XXX
+8 XX XX
+9 XX XX
+0  XXX
+
+\k 0d121 0d37 0d37
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7 XX  XX
+8  XXXX
+9   XX
+0
+
+\k 0d121 0d37 0d37 0d37
+012345678
+1
+2
+3
+4
+5
+6 XX   XX
+7 XX   XX
+8  XX XX
+9  XX XX
+0  XX XX
+1   XXX
+2   XXX
+3   XX
+4XX XX
+5 XXX
+6
+7XX   XX
+8XX   XX
+9
+0
+
+\k 0d121 0d61
+012345678
+1
+2
+3
+4
+5
+6 XX  XX
+7 XX  XX
+8 XX  XX
+9  XXXX
+0   XX
+1   XX
+2  XXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d121 0d61 0d94
+012345678
+1
+2XX  XX
+3XX  XX
+4 XXXX
+5  XX
+6 XXXX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d121 0d94
+012345678
+1
+2 XX   XX
+3  XX XX
+4  XX XX
+5   XXX
+6   XXX
+7XX XX
+8 XXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d122
+012345678
+1
+2
+3
+4
+5
+6XXXXXXX
+7X   XX
+8   XX
+9  XX
+0 XX
+1XX    X
+2XXXXXXX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d122 0d60
+012345678
+1
+2
+3
+4
+5
+6XXXXXXX
+7X   XX
+8   XX
+9  XX
+0 XX
+1XX    X
+2XXXXXXX
+3    XX
+4    XX X
+5     XXX
+6
+7
+8
+9
+0
+
+\k 0d122 0d61
+012345678
+1
+2
+3
+4
+5
+6XXXXXXX
+7X   XX
+8   XX
+9  XX
+0 XXXXX
+1     XX
+2     XX
+3     XX
+4XX  XX
+5 XXXX
+6
+7
+8
+9
+0
+
+\k 0d122 0d61 0d36
+012345678
+1
+2
+3
+4
+5
+6XXXXXXX
+7X   XX
+8   XX
+9  XX
+0 XXXXX
+1     XX
+2     XX
+3     XX
+4XX  XX
+5 XXXX
+6
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d122 0d62
+012345678
+1
+2
+3
+4
+5
+6XXXXXXX
+7X   XX
+8   XX
+9  XX
+0 XX XX
+1XX X XX
+2XXXXXXX
+3  XX
+4 XX
+5
+6
+7
+8
+9
+0
+
+\k 0d123
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4XXXXXXX
+5XX   XX
+6XX   XX
+7
+8
+9
+0
+
+\k 0d123 0d123
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4XX   XX
+5XX   XX
+6XXXXXXX
+7
+8
+9
+0
+
+\k 0d123 0d123 0d123
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4 XXXXXX
+5 XX  XX
+6 XX  XX
+7 XXXXXX
+8
+9
+0
+
+\k 0d123 0d123 0d123 0d123
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4XXX XXX
+5  XXX
+6   X
+7
+8
+9
+0
+
+\k 0d124
+012345678
+1
+2  XX
+3  XX
+4  XX
+5  XX
+6  XX
+7
+8  XX
+9  XX
+0  XX
+1  XX
+2  XX
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d125
+012345678
+1
+2    XX
+3    XX
+4    XX
+5    XX
+6    XX
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d125 0d125
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1    XX
+2    XX
+3    XX
+4    XX
+5    XX
+6
+7
+8
+9
+0
+
+\k 0d126
+\s 8
+012345678
+1
+2
+3 XXX XX
+4XX XXX
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d126 0d126
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7 XXXX XX
+8XX XXXX
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d126 0d126 0d126
+\s 8
+012345678
+1 XXX XX
+2XX XXX
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d174
+012345678
+1
+2
+3
+4
+5   XX XX
+6  XX XX
+7 XX XX
+8XX XX
+9 XX XX
+0  XX XX
+1   XX XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d175
+012345678
+1
+2
+3
+4
+5XX XX
+6 XX XX
+7  XX XX
+8   XX XX
+9  XX XX
+0 XX XX
+1XX XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d179
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d180
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0XXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d191
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0XXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d192
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XXXXX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d193
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0XXXXXXXX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d194
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0XXXXXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d195
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d196
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0XXXXXXXX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d197
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0XXXXXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d217
+012345678
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0XXXXX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d218
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0   XXXXX
+1   XX
+2   XX
+3   XX
+4   XX
+5   XX
+6   XX
+7   XX
+8   XX
+9   XX
+0   XX
+
+\k 0d240
+012345678
+1
+2X X X X
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0X X X X
+
+\k 0d241 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9XXXXXXXX
+0
+
+\k 0d241 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7     XXX
+8  XXXX
+9XXX
+0
+
+\k 0d241 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5      XX
+6    XXX
+7   XX
+8 XXX
+9XX
+0
+
+\k 0d241 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3      XX
+4     XX
+5    XX
+6   XX
+7  XX
+8 XX
+9XX
+0
+
+\k 0d241 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1       X
+2      XX
+3     XX
+4    XX
+5   XX
+6  XX
+7 XX
+8XX
+9X
+0
+
+\k 0d241 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9       X
+0      XX
+1     XX
+2     X
+3    XX
+4   XX
+5  XX
+6  X
+7 XX
+8XX
+9X
+0
+
+\k 0d241 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7       X
+8      XX
+9      X
+0     XX
+1    XX
+2    X
+3   XX
+4   X
+5  XX
+6 XX
+7 X
+8XX
+9X
+0
+
+\k 0d241 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5       X
+6      XX
+7      X
+8     XX
+9     X
+0    XX
+1    X
+2   XX
+3   X
+4  XX
+5  X
+6 XX
+7 X
+8XX
+9X
+0
+
+\k 0d241 0d249
+\s 8
+012345678
+1
+2
+3       X
+4      XX
+5      X
+6     XX
+7     X
+8     X
+9    XX
+0    X
+1   XX
+2   X
+3  XX
+4  X
+5  X
+6 XX
+7 X
+8XX
+9X
+0
+
+\k 0d242 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7XXX
+8  XXXX
+9     XXX
+0
+
+\k 0d242 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7XXXXXXXX
+8
+9
+0
+
+\k 0d242 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5     XXX
+6  XXXX
+7XXX
+8
+9
+0
+
+\k 0d242 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3      XX
+4    XXX
+5   XX
+6 XXX
+7XX
+8
+9
+0
+
+\k 0d242 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1      XX
+2     XX
+3    XX
+4   XX
+5  XX
+6 XX
+7XX
+8
+9
+0
+
+\k 0d242 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9       X
+0      XX
+1     XX
+2    XX
+3   XX
+4  XX
+5 XX
+6XX
+7X
+8
+9
+0
+
+\k 0d242 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7       X
+8      XX
+9     XX
+0     X
+1    XX
+2   XX
+3  XX
+4  X
+5 XX
+6XX
+7X
+8
+9
+0
+
+\k 0d242 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5       X
+6      XX
+7      X
+8     XX
+9    XX
+0    X
+1   XX
+2   X
+3  XX
+4 XX
+5 X
+6XX
+7X
+8
+9
+0
+
+\k 0d242 0d249
+\s 8
+012345678
+1
+2
+3       X
+4      XX
+5      X
+6     XX
+7     X
+8    XX
+9    X
+0   XX
+1   X
+2  XX
+3  X
+4 XX
+5 X
+6XX
+7X
+8
+9
+0
+
+\k 0d243 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5XX
+6 XXX
+7   XX
+8    XXX
+9      XX
+0
+
+\k 0d243 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5XXX
+6  XXXX
+7     XXX
+8
+9
+0
+
+\k 0d243 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5XXXXXXXX
+6
+7
+8
+9
+0
+
+\k 0d243 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3     XXX
+4  XXXX
+5XXX
+6
+7
+8
+9
+0
+
+\k 0d243 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1      XX
+2    XXX
+3   XX
+4 XXX
+5XX
+6
+7
+8
+9
+0
+
+\k 0d243 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9      XX
+0     XX
+1    XX
+2   XX
+3  XX
+4 XX
+5XX
+6
+7
+8
+9
+0
+
+\k 0d243 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7       X
+8      XX
+9     XX
+0    XX
+1   XX
+2  XX
+3 XX
+4XX
+5X
+6
+7
+8
+9
+0
+
+\k 0d243 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5       X
+6      XX
+7     XX
+8     X
+9    XX
+0   XX
+1  XX
+2  X
+3 XX
+4XX
+5X
+6
+7
+8
+9
+0
+
+\k 0d243 0d249
+\s 8
+012345678
+1
+2
+3       X
+4      XX
+5      X
+6     XX
+7    XX
+8    X
+9   XX
+0   X
+1  XX
+2 XX
+3 X
+4XX
+5X
+6
+7
+8
+9
+0
+
+\k 0d244 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3XX
+4 XX
+5  XX
+6   XX
+7    XX
+8     XX
+9      XX
+0
+
+\k 0d244 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3XX
+4 XXX
+5   XX
+6    XXX
+7      XX
+8
+9
+0
+
+\k 0d244 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3XXX
+4  XXXX
+5     XXX
+6
+7
+8
+9
+0
+
+\k 0d244 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3XXXXXXXX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d244 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1     XXX
+2  XXXX
+3XXX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d244 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9      XX
+0    XXX
+1   XX
+2 XXX
+3XX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d244 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7      XX
+8     XX
+9    XX
+0   XX
+1  XX
+2 XX
+3XX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d244 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5       X
+6      XX
+7     XX
+8    XX
+9   XX
+0  XX
+1 XX
+2XX
+3X
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d244 0d249
+\s 8
+012345678
+1
+2
+3       X
+4      XX
+5     XX
+6     X
+7    XX
+8   XX
+9  XX
+0  X
+1 XX
+2XX
+3X
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d245 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1X
+2XX
+3 XX
+4  XX
+5   XX
+6    XX
+7     XX
+8      XX
+9       X
+0
+
+\k 0d245 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1XX
+2 XX
+3  XX
+4   XX
+5    XX
+6     XX
+7      XX
+8
+9
+0
+
+\k 0d245 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1XX
+2 XXX
+3   XX
+4    XXX
+5      XX
+6
+7
+8
+9
+0
+
+\k 0d245 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1XXX
+2  XXXX
+3     XXX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d245 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1XXXXXXXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d245 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9     XXX
+0  XXXX
+1XXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d245 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7      XX
+8    XXX
+9   XX
+0 XXX
+1XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d245 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5      XX
+6     XX
+7    XX
+8   XX
+9  XX
+0 XX
+1XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d245 0d249
+\s 8
+012345678
+1
+2
+3       X
+4      XX
+5     XX
+6    XX
+7   XX
+8  XX
+9 XX
+0XX
+1X
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d246 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9X
+0XX
+1 XX
+2  X
+3  XX
+4   XX
+5    XX
+6     X
+7     XX
+8      XX
+9       X
+0
+
+\k 0d246 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9X
+0XX
+1 XX
+2  XX
+3   XX
+4    XX
+5     XX
+6      XX
+7       X
+8
+9
+0
+
+\k 0d246 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9XX
+0 XX
+1  XX
+2   XX
+3    XX
+4     XX
+5      XX
+6
+7
+8
+9
+0
+
+\k 0d246 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9XX
+0 XXX
+1   XX
+2    XXX
+3      XX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d246 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9XXX
+0  XXXX
+1     XXX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d246 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9XXXXXXXX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d246 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7     XXX
+8  XXXX
+9XXX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d246 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5      XX
+6    XXX
+7   XX
+8 XXX
+9XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d246 0d249
+\s 8
+012345678
+1
+2
+3      XX
+4     XX
+5    XX
+6   XX
+7  XX
+8 XX
+9XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d247 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7X
+8XX
+9 X
+0 XX
+1  XX
+2   X
+3   XX
+4    X
+5    XX
+6     XX
+7      X
+8      XX
+9       X
+0
+
+\k 0d247 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7X
+8XX
+9 XX
+0  X
+1  XX
+2   XX
+3    XX
+4     X
+5     XX
+6      XX
+7       X
+8
+9
+0
+
+\k 0d247 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7X
+8XX
+9 XX
+0  XX
+1   XX
+2    XX
+3     XX
+4      XX
+5       X
+6
+7
+8
+9
+0
+
+\k 0d247 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7XX
+8 XX
+9  XX
+0   XX
+1    XX
+2     XX
+3      XX
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d247 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7XX
+8 XXX
+9   XX
+0    XXX
+1      XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d247 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7XXX
+8  XXXX
+9     XXX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d247 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7XXXXXXXX
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d247 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5     XXX
+6  XXXX
+7XXX
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d247 0d249
+\s 8
+012345678
+1
+2
+3      XX
+4    XXX
+5   XX
+6 XXX
+7XX
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d248 0d241
+\s 8
+012345678
+1
+2
+3
+4
+5X
+6XX
+7 X
+8 XX
+9  X
+0  XX
+1   X
+2   XX
+3    X
+4    XX
+5     X
+6     XX
+7      X
+8      XX
+9       X
+0
+
+\k 0d248 0d242
+\s 8
+012345678
+1
+2
+3
+4
+5X
+6XX
+7 X
+8 XX
+9  XX
+0   X
+1   XX
+2    X
+3    XX
+4     XX
+5      X
+6      XX
+7       X
+8
+9
+0
+
+\k 0d248 0d243
+\s 8
+012345678
+1
+2
+3
+4
+5X
+6XX
+7 XX
+8  X
+9  XX
+0   XX
+1    XX
+2     X
+3     XX
+4      XX
+5       X
+6
+7
+8
+9
+0
+
+\k 0d248 0d244
+\s 8
+012345678
+1
+2
+3
+4
+5X
+6XX
+7 XX
+8  XX
+9   XX
+0    XX
+1     XX
+2      XX
+3       X
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d248 0d245
+\s 8
+012345678
+1
+2
+3
+4
+5XX
+6 XX
+7  XX
+8   XX
+9    XX
+0     XX
+1      XX
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d248 0d246
+\s 8
+012345678
+1
+2
+3
+4
+5XX
+6 XXX
+7   XX
+8    XXX
+9      XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d248 0d247
+\s 8
+012345678
+1
+2
+3
+4
+5XXX
+6  XXXX
+7     XXX
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d248 0d248
+\s 8
+012345678
+1
+2
+3
+4
+5XXXXXXXX
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d248 0d249
+\s 8
+012345678
+1
+2
+3     XXX
+4  XXXX
+5XXX
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d249 0d241
+\s 8
+012345678
+1
+2
+3X
+4XX
+5 X
+6 XX
+7  X
+8  X
+9  XX
+0   X
+1   XX
+2    X
+3    XX
+4     X
+5     X
+6     XX
+7      X
+8      XX
+9       X
+0
+
+\k 0d249 0d242
+\s 8
+012345678
+1
+2
+3X
+4XX
+5 X
+6 XX
+7  X
+8  XX
+9   X
+0   XX
+1    X
+2    XX
+3     X
+4     XX
+5      X
+6      XX
+7       X
+8
+9
+0
+
+\k 0d249 0d243
+\s 8
+012345678
+1
+2
+3X
+4XX
+5 X
+6 XX
+7  XX
+8   X
+9   XX
+0    X
+1    XX
+2     XX
+3      X
+4      XX
+5       X
+6
+7
+8
+9
+0
+
+\k 0d249 0d244
+\s 8
+012345678
+1
+2
+3X
+4XX
+5 XX
+6  X
+7  XX
+8   XX
+9    XX
+0     X
+1     XX
+2      XX
+3       X
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d249 0d245
+\s 8
+012345678
+1
+2
+3X
+4XX
+5 XX
+6  XX
+7   XX
+8    XX
+9     XX
+0      XX
+1       X
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d249 0d246
+\s 8
+012345678
+1
+2
+3XX
+4 XX
+5  XX
+6   XX
+7    XX
+8     XX
+9      XX
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d249 0d247
+\s 8
+012345678
+1
+2
+3XX
+4 XXX
+5   XX
+6    XXX
+7      XX
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d249 0d248
+\s 8
+012345678
+1
+2
+3XXX
+4  XXXX
+5     XXX
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d249 0d249
+\s 8
+012345678
+1
+2
+3XXXXXXXX
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d250
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d251
+012345678
+1
+2
+3
+4   X
+5  XXX
+6 XXXXX
+7XXXXXXX
+8XXXXXXX
+9 XXXXX
+0  XXX
+1   X
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+\k 0d252
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4XXXXXXX
+5
+6
+7
+8
+9
+0
+
+\k 0d253
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4   XX
+5 XXXXXX
+6   XX
+7
+8
+9
+0
+
+\k 0d253 0d253
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4   XX
+5   XX
+6 XXXXXX
+7
+8
+9
+0
+
+\k 0d253 0d253 0d253
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4    XX
+5 XXXXX
+6    XX
+7
+8
+9
+0
+
+\k 0d253 0d253 0d253 0d253
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4  XX
+5   XX
+6   XX
+7  XX
+8
+9
+0
+
+\k 0d254
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5 XXXXX
+6
+7
+8
+9
+0
+
+\k 0d254 0d254
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4 XXXXXX
+5   XX
+6   XX
+7
+8
+9
+0
+
+\k 0d254 0d254 0d254
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4 XX
+5 XXXXX
+6 XX
+7
+8
+9
+0
+
+\k 0d254 0d254 0d254 0d254
+\s 8
+012345678
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4   XX
+5  XX
+6  XX
+7   XX
+8
+9
+0
